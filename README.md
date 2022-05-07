@@ -3,6 +3,8 @@
 Цель данного проекта сортировка массива чисел за как можно меньшее число инструкций, используя ограниченный набор инструкций.
 Бонусом создания тестера для проверки правильности выполнения сортировки.
 
+[Методичка | Subject](https://github.com/TagirFakhrutdinov/push_swap/blob/master/push_swap_subject.pdf)
+
 | instructions  | Description   |
 |:-------------:|---------------|
 | sa            | swap first two elements of stack A |
