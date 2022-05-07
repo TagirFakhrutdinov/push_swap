@@ -28,7 +28,6 @@ git clone git@github.com:iamrustamov/push_swap.git
 cd push_swap/
 make
 ARG="random numbers"; /.push_swap $ARG // Печать всех интрукций которые потребовались для сортировки стека
-// Вместо random numbers любые целые числа через пробел
 ARG="random numbers"; ./push_swap $ARG | wc -l // Печать колличества инструкций которые потребовались для сортировки стека
 make bonus // Собрать checker для проверки правильности выполнения сортировки
 ARG="random numbers"; ./push_swap $ARG | ./checker $ARG // Вывод "ОК" если стек отсортировался, иначе "Error!"
