@@ -17,11 +17,6 @@
 | rrb           | rotates stuck B down by one |
 | rrr           | rotates both A and B down by one |
 
-## Клонирование проекта:
-```
-git clone git@github.com:iamrustamov/push_swap.git
-
-```
 ## Как запустить программу:
 ```
 Производим клонирование!
